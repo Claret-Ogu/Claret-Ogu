@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Claret Oguejiofor
-- 👀 I’m interested in becoming a self taught software engineer
-- 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, Java, Python, C, Arduino, MicroPython
-- 💞️ I’m looking to collaborate on anything and everything :)
+- 👀 I’m a software engineer
+- 🌱 HTML, CSS, Javascript, ReactJS, Java, Python, C, Arduino, MicroPython
+- 💞️ looking to collaborate
 - 📫 How to reach me oguejiofor.claret@gmail.com
 
 <!---
