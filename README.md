@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Claret Oguejiofor
-- 👀 I’m a software engineer
-- 🌱 HTML, CSS, Javascript, ReactJS, Java, Python, C, Arduino, MicroPython
+- 👀 Data Analyst by day, Software Engineer by night
+- 🌱 SQL, Python, HTML, CSS, Javascript, ReactJS, Java, Django, C, Arduino, MicroPython
 - 💞️ looking to collaborate
 - 📫 How to reach me oguejiofor.claret@gmail.com
 
