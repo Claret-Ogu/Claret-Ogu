@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Claret Oguejiofor
-- 👀 Data Analyst by day, Software Engineer by night
+- 👀 Data Analyst by day, Fullstack Software Engineer by night
 - 🌱 SQL, Python, HTML, CSS, Javascript, ReactJS, Java, Django, C, Arduino, MicroPython
 - 💞️ looking to collaborate
 - 📫 How to reach me oguejiofor.claret@gmail.com
