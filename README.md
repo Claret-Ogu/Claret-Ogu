@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Claret Oguejiofor
-- 👀 Data Analyst by day, Full stack Developer by night
-- 🌱 SQL, Python, HTML, CSS, Javascript, ReactJS, Java, Django, C, Arduino, MicroPython
-- 💞️ looking to collaborate
-- 📫 How to reach me oguejiofor.claret@gmail.com
-- https://devhub-a9rd.onrender.com/
+Data Analyst by day, Full stack Developer by night
+SQL, Python, HTML, CSS, Javascript, ReactJS, Java, Django, C, Arduino, MicroPython
+looking to collaborate
+oguejiofor.claret@gmail.com
+https://devhub-a9rd.onrender.com/
 
 <!---
 Claret-Ogu/Claret-Ogu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
