@@ -1,4 +1,4 @@
-- Data Analyst by day, Full stack Developer by night
+- Data Analyst by day, Full Stack Developer by night
 - SQL, Python, HTML, CSS, Javascript, ReactJS, Java, Django, C, Arduino, MicroPython
 - lets collaborate
 - oguejiofor.claret@gmail.com
